@@ -71,6 +71,6 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-[#f3ecd7] text-foreground; /* Updated background color to match Financial Times */
   }
 }
